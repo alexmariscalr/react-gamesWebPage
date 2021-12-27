@@ -1,0 +1,30 @@
+{
+  "elije": "Choose your game",
+  "Created_by": "Created by",
+  "welcome": "Welcome to TICTAC-QUIZ !",
+  "info": "Choose the game",
+  "descTicTac": "The game of tic-tac-toe is played on a three-by-three board with X and 0. The first player to line up three consecutive symbols either vertically, horizontally or diagonally wins the game",
+  "descQuiz": "The game consists of 10 quizzes that will test your knowledges. Try to get them all right and you will get more points",
+  "enter": "Enter answer",
+  "en": "English",
+  "es": "Spanish",
+  "turno": "Turn of:",
+  "jugador1": "Xs",
+  "jugador2": "Os",
+  "nextQuestion": "Next question",
+  "numberMov": "Number of moves",
+  "number": "Question number",
+  "previousQuestion": "Previous question",
+  "qHeader": "Question nº",
+  "reset": "Reset",
+  "score":"Score",
+  "submit":"Submit",
+  "end": "End of the game",
+  "finalScore": "Final score:",
+  "backHome": "Back home",
+  "urlThankYou": "https://static.vecteezy.com/system/resources/previews/000/395/677/original/thank-you-neon-sign-vector.jpg",
+  "showAnswer": "Show your answer",
+  "addAnswer" : "Save"
+  
+
+}

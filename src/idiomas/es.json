@@ -1,0 +1,30 @@
+{
+    "Created_by":"Creado por",
+    "elije": "Elije tu juego",
+    "welcome": "Bienvenidos a la mejor pagina de minijuegos",
+    "info": "Elige entre los juegos disponibles",
+    "descTicTac": "El juego de tres en raya se juega en un tablero de tres por tres con “X” y “0”. El primer jugador que llegue a alinear tres símbolos consecutivos ya sea que los haya hecho vertical, horizontal o diagonalmente habrá ganado el juego.",
+    "descQuiz": "El juego consta de 10 quizzes aleatorios que pondrán a prueba tu conocimiento. Intenta acertarlos todos y conseguirás más puntos.",
+    "enter":"Introduzca su respuesta",
+    "en": "Inglés",
+    "es": "Español",
+    "turno": "Turno de:",
+    "jugador1": "Xs",
+    "jugador2": "Os",
+    "nextQuestion": "Siguiente pregunta",
+    "numberMov": "Numero de movimientos",
+    "number": "Pregunta número",
+    "previousQuestion": "Pregunta anterior",
+    "qHeader": "Pregunta nº",
+    "reset": "Reiniciar",
+    "score": "Puntos",
+    "submit":"Entregar",
+    "end": "Fin del juego",
+    "finalScore": "Puntuación final:",
+    "backHome": "Volver al inicio",
+    "urlThankYou": "https://i.vimeocdn.com/portrait/11054388_640x640.jpg",
+    "showAnswer": "Mostrar tu respuesta",
+    "addAnswer" : "Guardar "
+
+    
+  }

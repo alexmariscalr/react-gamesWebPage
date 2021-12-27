@@ -1,0 +1,24 @@
+#numeropregunta {
+    
+    font-size: 120%;
+    color: grey;
+    background-color: transparent;
+    text-align: center;
+    text-transform: uppercase;
+    margin:3%
+
+}
+
+
+#pregunta {
+    font-size: 220%;
+    color: grey;
+    background-color: transparent;
+    text-align: center;
+    border: none;
+    text-transform: uppercase;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 3%;
+    
+    
+}

@@ -1,0 +1,95 @@
+@media all and (max-width: 600px) {}
+
+:root {
+    background-color: #ffffff;
+}
+.Quiz {
+    font-style: oblique;
+    color: #ffffff;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+.titulo {
+    margin: 5%;
+}
+
+#container {
+    
+    background: rgb(111, 166, 173);
+    margin: 40px;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding-bottom: 5px;
+    border: solid;
+    border-color: grey;
+
+    
+}
+
+
+
+#entornoJuego {
+    border: solid;
+    border-color: grey;
+    background-color: white;
+    
+    margin: 2%;
+    padding-top: 0px;
+    margin:18%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+
+h4 {
+    margin-top: 100px;
+    color: rgb(111, 166, 173);
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+    border: solid;
+    border-radius: 10px;
+}
+
+
+#botones {
+    text-align: center;
+    
+    margin: 40px;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+
+#botones button {
+    font-size: 19px;
+    color: rgb(111, 166, 173);;
+    width: 300px;
+    height: 50px;
+    background: white;
+    border: 2px solid grey;
+    margin-top: 0px;
+    margin: 5px;
+    margin-bottom: 0%;
+    border-radius: 6px;
+    
+}
+
+#botones button:hover {
+    color: white;
+    background-color: rgb(111, 166, 173);
+}
+
+#shortcuts {
+    border: none;
+    margin: 2%;
+    padding-top: 3%;
+}
+

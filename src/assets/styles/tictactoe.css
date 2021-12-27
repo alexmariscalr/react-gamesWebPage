@@ -1,0 +1,42 @@
+.tictactoe {
+    text-align: center;
+    margin-top: 100px;
+    border-top: solid;
+    border-color: grey;
+    
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+    align-items: center;
+    color: grey;
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family:'Permanent Marker', cursive;
+}
+
+#titulo {
+    font-size: 30px;
+}
+
+#moves {
+    color: grey;
+    margin-top: 2%;
+}
+
+#boton {
+    background-color:rgb(163, 226, 241);
+    border-color: grey;
+    color: grey;
+    height: 50px;
+}
+
+#boton:hover {
+    background-color:grey;
+    border-color: grey;
+    color: rgb(163, 226, 241);
+    height: 50px;
+}

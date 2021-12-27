@@ -1,0 +1,28 @@
+/*
+img {
+    height: 50px;
+    width: auto;
+    border-radius: 20px;
+    
+}
+
+#autor {
+    margin-left: 1400px;
+}
+
+*/
+
+#autor {
+    text-align: right;
+    margin: 2%;
+
+
+}
+
+#autor img {
+    text-align: right;
+    width: 35px;
+    border-radius: 100%;
+    margin: 1%;
+    
+}

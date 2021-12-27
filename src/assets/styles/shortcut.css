@@ -1,0 +1,26 @@
+.indices {
+    text-align: center;
+    }
+
+.indices button {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    color: rgb(111, 166, 173);
+    border: solid;
+    border-color: white;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+button:hover,button:active,button:focus {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: grey;
+    border: solid;
+    border-color: white;
+}
+
